@@ -1,10 +1,10 @@
 
-import './App.css';
-
+// import './App.css';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 function App() {
   return (
     <div className="App">
- portfolio project
+ <h2>portfolio project</h2>
     </div>
   );
 }
